@@ -1,4 +1,4 @@
-# CSE578 Final Project: VAST 2021 MC2 Challenge Submission
+# VAST 2021 MC2 Challenge Submission, Arizona State University
 
 This repository contains a simple data visualization code using D3.js along with vanilla JavaScript, HTML, and CSS. The code creates a basic visualization that requires an internet connection to fetch D3.js from a CDN.
 
